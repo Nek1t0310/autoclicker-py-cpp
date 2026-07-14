@@ -5,7 +5,7 @@
 // #include <chrono>
 using namespace std;
 
-#pragma comment(lib, "winmm.lib") // <- для компилятора MSVC
+// #pragma comment(lib, "winmm.lib") // <- для компилятора MSVC
 
 namespace Mouse {
     enum class Button {
